@@ -1,0 +1,64 @@
+nav{
+    padding:50px;
+}
+
+.navbar-brand{
+    font-size: large;
+    font-weight: bold;
+    font-size: 30px;
+}
+.card{
+    border-radius: 0px;
+    border-style: none;
+}
+.page-title-row{
+    background-color: black;
+    min-height: 300px;
+    padding:20px;
+    padding-bottom: 0px;
+    display: flex;
+    align-items: flex-end;
+    padding-left: 50px;
+}
+
+.row-title { 
+    /* vertical-align: bottom; */
+    color: white;
+}
+.profile-card{
+    padding:20px;
+}
+.grey-img{
+    background-color: grey;
+    height: 100px;
+    width: 100px;
+}
+i{
+    text-align: center;
+    width: 100%;
+}
+.call-action{
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 20px;
+    /* font-weight: lighter; */
+    padding:10px;
+}
+.about-section{
+    padding-right: 100px;
+    padding-top: 300px;
+}
+a{
+    color:grey;
+    text-decoration: none;
+}
+a:hover{
+    color: gray!important;
+}
+.lg-img{
+    background-color: grey;
+    height: 300px;
+    width: 100%;
+}
