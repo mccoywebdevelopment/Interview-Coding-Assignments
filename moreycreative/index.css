@@ -42,12 +42,12 @@ i{
     border-width: 1px;
     text-align: center;
     vertical-align: middle;
-    font-size: 20px;
+    font-size: 15px;
     /* font-weight: lighter; */
     padding:10px;
 }
 .about-section{
-    padding-right: 100px;
+    /* padding-right: 100px; */
     padding-top: 300px;
 }
 a{
@@ -59,6 +59,26 @@ a:hover{
 }
 .lg-img{
     background-color: grey;
-    height: 300px;
+    /* height: 300px; */
     width: 100%;
+}
+.my-grid>*{
+    padding: 50px;
+}
+.grey-call-action{
+    background-color: grey;
+    padding: 50px;
+    color:white;
+}
+.equal {
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+  }
+
+p{
+    font-size: 12px;
+}
+.my-icons>i{
+    padding-right: 20px;
 }
