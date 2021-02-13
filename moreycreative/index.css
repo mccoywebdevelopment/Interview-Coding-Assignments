@@ -82,3 +82,8 @@ p{
 .my-icons>i{
     padding-right: 20px;
 }
+
+.times-font{
+    font-family: 'Times New Roman', Times, serif;
+    /* font-family: Courier New, monospace; */
+}
